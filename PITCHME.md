@@ -6,7 +6,7 @@
 
 - Html
 - Svg
-- canvas
+- Сanvas
 
 ---
 
